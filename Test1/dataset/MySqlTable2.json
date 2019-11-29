@@ -1,0 +1,8 @@
+{
+	"name": "MySqlTable2",
+	"properties": {
+		"annotations": [],
+		"type": "MySqlTable",
+		"schema": []
+	}
+}
